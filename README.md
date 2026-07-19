@@ -76,4 +76,8 @@ If your agent can execute against that API, it runs the generation for you. If n
 
 ## License
 
-[MIT](LICENSE)
+[GNU AGPL v3.0](LICENSE) — Copyright (C) 2026 Maxfusion AI.
+
+Free to use, study, modify and share. If you modify it and let others use it —
+including over a network — the modified version must be released under the
+same license.
